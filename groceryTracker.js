@@ -1,6 +1,4 @@
-let amount1;
-let amount2;
-let amount3;
+
 
 function calculatesum(){
         amount1 = parseFloat(document.getElementById('amount1').value);
